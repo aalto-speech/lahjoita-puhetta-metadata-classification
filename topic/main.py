@@ -7,7 +7,6 @@ from transformers import BertTokenizer, BertModel
 import numpy as np
 import pickle
 import math
-import fasttext
 
 import utils.prepare_data as prepare_data
 from model import XVectorModel
